@@ -5,3 +5,7 @@ Welcome to jquery
 slector.css
 selector.action
 slector.before
+
+
+
+thank you ;-M
