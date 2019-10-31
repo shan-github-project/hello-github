@@ -1,0 +1,5 @@
+
+
+jquery effects-hide
+jquery effects-toggle
+jquery effects-fade out
